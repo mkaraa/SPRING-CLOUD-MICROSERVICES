@@ -1,0 +1,9 @@
+INSERT INTO ADDRESS (id, country, city) VALUES (11, 'TURKIYE', 'Ankara');
+INSERT INTO ADDRESS (id, country, city) VALUES (12, 'Germany', 'Berlin');
+INSERT INTO ADDRESS (id, country, city) VALUES (14, 'Italy', 'Rome');
+INSERT INTO ADDRESS (id, country, city) VALUES (13, 'France', 'Paris');
+INSERT INTO ADDRESS (id, country, city) VALUES (15, 'England', 'London');
+INSERT INTO ADDRESS (id, country, city) VALUES (16, 'Portugal', 'Lisbon');
+INSERT INTO ADDRESS (id, country, city) VALUES (17, 'Spain', 'Madrid');
+INSERT INTO ADDRESS (id, country, city) VALUES (18, 'Austria', 'Vienna');
+INSERT INTO ADDRESS (id, country, city) VALUES (19, 'Bulgaria', 'Sofia');
